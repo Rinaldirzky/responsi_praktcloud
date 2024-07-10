@@ -71,3 +71,9 @@ docker run -d --name website-profil --network my-rinaldi-network -p 8081:80 webs
 docker run -d --name cont_utama --network my-rinaldi-network -p 8080:80 website-utama 
 ```
 # Hasil Saat Dijalankan
+- Website-Utama
+![image](https://github.com/Rinaldirzky/responsi_praktcloud/assets/147987091/e78d5e50-b876-4500-8c0b-c5659291be63)
+- Website-Profil
+![Screenshot_3](https://github.com/Rinaldirzky/responsi_praktcloud/assets/147987091/79ac18bc-5b5e-4074-b08c-5729b2139b0f)
+
+
